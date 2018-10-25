@@ -1,5 +1,6 @@
 # Multiple Linear Regression in R without the built-in 'lm()'.
 # The code uses Matrix Algebra.
+# Chit : 1.a
 
 # Author : Priyanka Kasture
 
